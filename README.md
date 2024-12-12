@@ -1,36 +1,32 @@
 # meus-projetos-responsivos-html-css-js
 Projetos criados com intúito de conquistar minha primeira vaga 
 
-# Imagens de Busca com API do Unsplash
+# Projetos de Desenvolvimento Web
 
-Este projeto permite realizar buscas de imagens usando a API do Unsplash. O usuário pode inserir uma palavra-chave para buscar imagens relacionadas e visualizar os resultados. O sistema também suporta paginação, permitindo ao usuário carregar mais resultados ao clicar no botão "Mostrar mais".
+Este repositório contém todos os meus projetos em HTML, CSS e JavaScript, desenvolvidos com o intuito de aprimorar minhas habilidades e conquistar meu primeiro emprego como desenvolvedor web. Cada projeto está em uma pasta separada, contendo suas respectivas descrições, funcionalidades e instruções para execução.
 
-## Funcionalidades
+## Objetivo
 
-- Busca de imagens usando a API do Unsplash.
-- Exibição das imagens com links para suas páginas no Unsplash.
-- Paginação para carregar mais imagens.
-- Integração simples com HTML, CSS e JavaScript.
+O objetivo principal deste repositório é reunir meus projetos para mostrar minha evolução no desenvolvimento web. Estes projetos me ajudaram a aprender e aprimorar as habilidades essenciais para ser um bom desenvolvedor.
 
-## Tecnologias Utilizadas
+## Tecnologias Usadas
 
-- **HTML**: Estrutura da página e elementos.
-- **CSS**: Estilização da página e elementos.
-- **JavaScript**: Lógica de busca e manipulação da DOM.
-- **API do Unsplash**: Para buscar imagens.
+- **HTML5**: Estruturação e conteúdo semântico.
+- **CSS3**: Estilização e layout responsivo.
+- **JavaScript**: Interatividade e lógica de programação.
+- **Tecnologias**: APIS, FRAMEWORKS, BIBLIOTECAS.
 
-## Como Usar
+## Como rodar os projetos
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
-    ```
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2. Abra o arquivo `index.html` em seu navegador.
+2. Navegue até o diretório do projeto desejado:
 
-3. Digite um termo no campo de busca e pressione Enter ou clique em "Buscar" para visualizar as imagens.
+    cd nome-do-projeto
 
-4. Para carregar mais imagens, clique no botão "Mostrar mais".
+3. Abra os arquivos index.html diretamente no seu navegador para ver o projeto em execução.
 
-## Estrutura do Projeto
-
+Contato
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar através do GitHub ou do meu e-mail: jefferson.rizzetto@gmail.com
